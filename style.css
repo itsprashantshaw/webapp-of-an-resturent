@@ -330,6 +330,11 @@ section{
         padding: 100px 7%;
     }
 }
-@media(max-width:720px){
+@media(max-width:720px) //For Mobile device
+{  
     
+}
+@media(max-width:1320px). //for tab device
+{ 
+
 }
